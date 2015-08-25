@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 52f85f5360c2644c19b26750429baabd
+timeCreated: 1440378610
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LittleGuy
+    21300002: Axe
+    21300004: Sword
+    21300006: Mace
+    21300008: Club
+    21300010: BloodParticle
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LittleGuy
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 452
+        width: 96
+        height: 107
+      alignment: 9
+      pivot: {x: .429755062, y: .472989947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Axe
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 489
+        width: 70
+        height: 76
+      alignment: 9
+      pivot: {x: .431188732, y: .214795157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sword
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 493
+        width: 44
+        height: 79
+      alignment: 9
+      pivot: {x: .565683544, y: .158556208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mace
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 496
+        width: 62
+        height: 86
+      alignment: 9
+      pivot: {x: .507769167, y: .169545367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Club
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 387
+        width: 30
+        height: 95
+      alignment: 9
+      pivot: {x: .435776263, y: .175500169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BloodParticle
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 65
+        width: 249
+        height: 268
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
